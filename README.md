@@ -19,12 +19,5 @@ A good fault detection system provides an effective, reliable, fast and secure w
 The analysis  also enables us to differentiate among three phases which phase is experiencing a fault for quick resolution.
 
 
-## Dataset Description
 
-This project has been sourced from Kaggle. While the dataset for fault detection has 12001 observations and 9 columns, the dataset to be used for classification has 7861 entries and 10 columns.
-The detect dataset has 9 columns namely
-'Output (S)', 'Ia', 'Ib', 'Ic', 'Va', 'Vb', 'Vc', 'Unnamed: 7
-While classification dataset has 10 columns namely
-['G', 'C', 'B', 'A', 'Ia', 'Ib', 'Ic', 'Va', 'Vb', 'Vc'], dtype='object'
-The detect dataset is used to detect whether a phase is faulty with regards to current and voltage of a single phase,while classification dataset is used to classify where the actual fault lies eg if its between line to ground or line to line.
 
