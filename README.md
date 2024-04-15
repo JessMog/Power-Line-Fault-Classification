@@ -18,7 +18,7 @@ Detection and classify faulty power transmission lines based on the analysis of 
 A good fault detection system provides an effective, reliable, fast and secure way of a relaying operation. The application of a pattern recognition technique could be useful in discriminating against faults or disturbances and healthy electrical power systems. This will enable the power system to remain in stable condition. 
 The analysis  also enables us to differentiate among three phases which phase is experiencing a fault for quick resolution.
 
-Specific objectives:
+## Specific objectives:
 
 
 Which type of fault appears the most,is it line to line or line to ground?
