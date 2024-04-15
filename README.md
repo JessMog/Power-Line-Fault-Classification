@@ -21,7 +21,7 @@ The analysis  also enables us to differentiate among three phases which phase is
 ## Specific objectives:
 
 
-Which type of fault appears the most,is it line to line or line to ground?
+- Which type of fault appears the most,is it line to line or line to ground?
 How can we identify and mitigate the risks associated with power faults?
 Which phase has the most fault?
 What is most likely to cause fault?
