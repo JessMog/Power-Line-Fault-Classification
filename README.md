@@ -20,7 +20,7 @@ A good fault detection system provides an effective, reliable, fast and secure w
 
 The analysis  also enables us to differentiate among three phases which phase is experiencing a fault for quick resolution.
 
-## Specific objectives:   
+## Specific objectives:         
 
 - Which type of fault appears the most,is it line to line or line to ground?
 - How can we identify and mitigate the risks associated with power faults?
