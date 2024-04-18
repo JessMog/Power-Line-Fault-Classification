@@ -32,6 +32,11 @@ The analysis  also enables us to differentiate among three phases which phase is
 - Find ways to reduce restoration costs. 
 - Providing a good model with an accuracy of 90-95%.
 
+## Resources
+On this project, there’s a team of four Data Scientists who are working hand in hand with the mentors to critique and evaluate the project. The dataset we are working with “Electric Fault detection and classification” is from the Kaggle website. 
+
+We are also using Github to host our project once it is completed. We have also incorporated Jira as our project management tool.
+We shall work with several python libraries, ie, numpy for general tasks, pandas for data manipulation, Scikit learn  for machine learning and matplotlib and seaborn for visualizations. We shall implement supervised learning with python while using models like logistic regression decision trees, KNN and SVM. 
 
 
 
