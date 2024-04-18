@@ -30,7 +30,7 @@ The analysis  also enables us to differentiate among three phases which phase is
 ## Business Success Criteria
 - Detecting  power faults and ways to restore it before a blackout happens and affects consumers in homes or offices.
 - Find ways to reduce restoration costs. 
-Providing a good model with an accuracy of 90-95%.
+-Providing a good model with an accuracy of 90-95%.
 
 
 
