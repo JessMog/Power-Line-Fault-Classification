@@ -12,7 +12,7 @@ We aim to come up with a machine learning model that can effectively analyze our
 We have two datasets for this,the detection dataset and the classification dataset.
 
 The detection dataset is used to detect whether a line is faulty or otherwise with regards to the amount of current and voltage present, while classification dataset is used to classify where the actual fault is.eg whether the fault is symmetrical or asymmetrical.
-
+  
 ## Overall objective:                                     
 Detection and classify faulty power transmission lines based on the analysis of current and voltage
 
