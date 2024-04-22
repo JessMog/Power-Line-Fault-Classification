@@ -6,7 +6,7 @@ To reduce the duration of outages and minimize response time to major faults, an
 The three phase currents and voltages of one end are taken as inputs in the proposed scheme.              
   
 A detailed analysis using 8 different supervised models has been performed to validate the choice of the MLP model. The simulation results concluded that the present method based on the neural network is efficient in detecting and classifying the faults on transmission lines with satisfactory performances. The different faults are simulated with different parameters to check the versatility of the method. 
-         
+          
 ## Approach        
 We aim to come up with a machine learning model that can effectively analyze our data and detect whether a power line is faulty or otherwise.
 We have two datasets for this,the detection dataset and the classification dataset.
