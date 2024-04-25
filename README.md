@@ -13,7 +13,7 @@ We have two datasets for this,the detection dataset and the classification datas
 
 The detection dataset is used to detect whether a line is faulty or otherwise with regards to the amount of current and voltage present, while classification dataset is used to classify where the actual fault is.eg whether the fault is symmetrical or asymmetrical.
         
-## Overall objective:                                            
+## Overall objective:                                              
 Detection and classify faulty power transmission lines based on the analysis of current and voltage
 
 A good fault detection system provides an effective, reliable, fast and secure way of a relaying operation. The application of a pattern recognition technique could be useful in discriminating against faults or disturbances and healthy electrical power systems. This will enable the power system to remain in stable condition. 
